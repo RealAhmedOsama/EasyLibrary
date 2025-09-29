@@ -145,19 +145,12 @@ EasyLibrary/
 
 ---
 
-## 📸 Screenshots
-
-*(Coming soon – add images of your UI here for better presentation)*
-
----
-
 ## 👥 Credits
 
 This project was developed collaboratively with shared and individual contributions:
 
-* **Roudina Ahmed** – Worked on the **Data Access Layer (DAL)** and **Core layer** side by side with Ahmed Osama.
 * **Ahmed Osama** – Focused on **Indexing and Constraints in DAL**, worked extensively on the **Core layer**, and developed the **WinForms UI** independently.
-
+* **Roudina Ahmed** – Worked on the **Data Access Layer (DAL)** and **Core layer** side by side with Ahmed Osama.
 ---
 
 ## 📝 License
