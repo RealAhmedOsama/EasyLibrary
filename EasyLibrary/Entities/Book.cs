@@ -6,7 +6,8 @@ namespace EasyLibrary.DAL.Entities;
 public class Book
 {
     // Book: Id, Title, Author, ISBN, PublishedYear, CategoryId, IsAvailable,CreatedOn,IsActive
-    [Key] public int Id { get; set; }
+    [Key] 
+    public int Id { get; set; }
 
     [Required]
     [MaxLength(255)]
